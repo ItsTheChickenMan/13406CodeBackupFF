@@ -1,0 +1,5 @@
+BadBot - Code for our original 18x18 bot.  It was pretty bad, hence the name
+
+NarrowBot - Code for our narrow bot which we brought to the Andover Qualifier.
+
+PeepsBot - Code for "peeps" bot (Peeps is the name of our former captain's cat) which we brought to the MA State Championships
